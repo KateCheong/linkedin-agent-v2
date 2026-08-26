@@ -1,0 +1,18 @@
+# API keys - never commit
+.env
+
+# Python virtual enviornment
+.venv/
+
+#Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+#System files
+.DS_Store
+
+# Generated outputs 
+outputs/
+histroy/
+reports/
