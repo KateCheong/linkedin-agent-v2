@@ -16,3 +16,7 @@ __pycache__/
 outputs/
 histroy/
 reports/
+
+# FAISS
+faiss_index/
+knowledge_base/
