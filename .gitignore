@@ -20,3 +20,4 @@ reports/
 # FAISS
 faiss_index/
 knowledge_base/
+langgrapg_state.db
